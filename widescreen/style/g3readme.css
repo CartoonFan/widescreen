@@ -4,7 +4,7 @@ body {
   text-align: left;
   color: #000;
   background-color: #f2f2fc;
-  margin: 35px 50px 35px 50px;
+  margin: 35px 50px;
   padding: 0;
 }
 
@@ -91,8 +91,8 @@ table.leftalign tr td { text-align: left; }
   position: relative;
   border: 1px dotted #bbb;
   background-color: #fff;
-  margin: -30px 0 30px 0;
-  padding: 20px 20px 10px 20px;
+  margin: -30px 0 30px;
+  padding: 20px 20px 10px;
 }
 
 .kit_description {
