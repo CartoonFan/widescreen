@@ -7,7 +7,7 @@ body {
     margin: 35px 50px 35px 50px;
     padding: 0px;
     }
-img {border : 0;}
+img { border : 0; }
 h1, h2, h3, h4, h5, h6 {
     font-size: 17px;
     font-weight: bold;
@@ -21,19 +21,19 @@ h1, h2, h3, h4, h5, h6 {
     border:1px solid #888;
     z-index:10;
     }
-h2 {font-size : 16px;}
-h3 {font-size : 15px;}
-h4 {font-size : 14px;}
-h5 {font-size : 13px;}
-h6 {font-size : 12px;}
-p, ul, table {clear:left;}
+h2 { font-size : 16px; }
+h3 { font-size : 15px; }
+h4 { font-size : 14px; }
+h5 { font-size : 13px; }
+h6 { font-size : 12px; }
+p, ul, table { clear:left; }
 a, a:link, a:visited, a:hover, a:active {
   color: #0012ff;
   margin: 0;
   padding: 0;
   border-width: 0;
     }
-a:visited {color : #0000cd;}
+a:visited { color : #0000cd; }
 table {
     width: 100%;
     padding: 20px;
@@ -56,7 +56,7 @@ hr {
   margin: 0;
   visibility: hidden;
     }
-.leftalign, table.leftalign tr th, table.leftalign tr td {text-align: left;}
+.leftalign, table.leftalign tr th, table.leftalign tr td { text-align: left; }
 .section {
     position: relative;
     border: 1px dotted #bbb;
