@@ -27,7 +27,7 @@ h6 {
   padding: 5px;
   border: 1px solid #888;
   z-index: 10;
-    }
+}
 
 h2 { font-size: 16px; }
 
@@ -52,14 +52,14 @@ a:active {
   margin: 0;
   padding: 0;
   border-width: 0;
-    }
+}
 
 a:visited { color: #0000cd; }
 
 table {
   width: 100%;
   padding: 20px;
-    }
+}
 
 td,
 th {
@@ -68,20 +68,20 @@ th {
   vertical-align: baseline;
   padding: 5px;
   border: 1px outset #aaa;
-    }
+}
 
 th {
   background-color: #0000cd;
   color: #fff;
   font-weight: bold;
-    }
+}
 
 hr {
   display: block;
   clear: both;
   margin: 0;
   visibility: hidden;
-    }
+}
 
 .leftalign,
 table.leftalign tr th,
@@ -93,7 +93,7 @@ table.leftalign tr td { text-align: left; }
   background-color: #fff;
   margin: -30px 0 30px 0;
   padding: 20px 20px 10px 20px;
-    }
+}
 
 .kit_description {
   position: relative;
@@ -101,7 +101,7 @@ table.leftalign tr td { text-align: left; }
   background-color: #f0f0f0;
   border-left: 4px solid #ccc;
   border-top: 1px dotted #ccc;
-    }
+}
 
 .portrait_thumb {
   float: left;
@@ -110,7 +110,7 @@ table.leftalign tr td { text-align: left; }
   padding: 5px;
   text-align: center;
   overflow: auto;
-    }
+}
 
 a.spoiler,
 a:link.spoiler,
@@ -121,12 +121,12 @@ a:hover.spoiler {
   background-color: #ccc;
   border: 1px dotted #888;
   text-decoration: none;
-    }
+}
 
 a:hover.spoiler {
   color: #000;
   border: 1px dotted #ccc;
-    }
+}
 
 .code {
   font-family: 'Courier New', Courier, monospace;
@@ -134,8 +134,8 @@ a:hover.spoiler {
   border-left: 10px solid #555;
   background-color: #eee;
   padding: 5px;
-    }
+}
 
 .deprecated {
   color: #666;
-    }
+}
