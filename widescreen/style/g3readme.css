@@ -112,6 +112,7 @@ a:active {
 a:visited { color: #0000cd; }
 
 table {
+  box-sizing: border-box;
   width: 100%;
   padding: 20px;
 }
@@ -159,6 +160,7 @@ table.leftalign tr td { text-align: left; }
 }
 
 .portrait_thumb {
+  box-sizing: border-box;
   float: left;
   width: 125px;
   height: 125px;
