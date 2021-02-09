@@ -86,6 +86,7 @@ hr {
 .leftalign,
 table.leftalign tr th,
 table.leftalign tr td { text-align: left; }
+
 .section {
   position: relative;
   border: 1px dotted #bbb;
