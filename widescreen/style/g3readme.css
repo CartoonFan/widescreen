@@ -51,10 +51,10 @@ th {
     font-weight: bold;
     }
 hr {
-    display: block;
-    clear: both;
-    margin: 0;
-    visibility: hidden;
+  display: block;
+  clear: both;
+  margin: 0;
+  visibility: hidden;
     }
 .leftalign, table.leftalign tr th, table.leftalign tr td {text-align: left;}
 .section {
