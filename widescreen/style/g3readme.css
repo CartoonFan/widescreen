@@ -128,7 +128,7 @@ a:hover.spoiler {
     }
 
 .code {
-  font-family: 'Courier New', Courier, mono;
+  font-family: 'Courier New', Courier, monospace;
   border: 1px solid #555;
   border-left: 10px solid #555;
   background-color: #eee;
